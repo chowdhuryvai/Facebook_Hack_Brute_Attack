@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/k54HQqCm/2026-08-08-071621.pngtext=ADMIN+PANEL+FINDER+ULTRA" alt="Banner" style="border-radius:10px;">
+<img src="https://i.postimg.cc/9QN6NrJh/2026-08-08-075049.pngtext=ADMIN+PANEL+FINDER+ULTRA" alt="Banner" style="border-radius:10px;">
 
 # 🔐 FACEBOOK ID FINDER & SECURITY TOOL
 
